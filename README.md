@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Vidhi%20Mandaliya&fontSize=50&fontAlignY=40&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20React%20%7C%20MongoDB%20%7C%20Continuous%20Learner&descAlignY=60&animation=fadeIn"/>
+[<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Vidhi%20Mandaliya&fontSize=50&fontAlignY=40&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20React%20%7C%20MongoDB%20%7C%20Continuous%20Learner&descAlignY=60&animation=fadeIn"/>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Aspiring+Full+Stack+Developer;React+%7C+JavaScript+%7C+MongoDB;Passionate+Learner;Problem+Solver;Always+Exploring+New+Technologies"/>
@@ -136,4 +136,4 @@ Projects developed as part of continuous learning and skill improvement.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>](https://vidhimandaliya.netlify.app/)
