@@ -32,7 +32,8 @@ My interests lie in **web development, frontend technologies, backend systems, a
 <img src="https://skillicons.dev/icons?i=js,cpp,c,html,css" />
 </p>
 
-<br />
+<br/>
+<br/>
 
 ## Frontend Development
 
@@ -40,7 +41,8 @@ My interests lie in **web development, frontend technologies, backend systems, a
 <img src="https://skillicons.dev/icons?i=react,html,css,js" />
 </p>
 
-<br />
+<br/>
+<br/>
 
 ## Backend Development
 
@@ -48,7 +50,8 @@ My interests lie in **web development, frontend technologies, backend systems, a
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-<br />
+<br/>
+<br/>
 
 ## Databases
 
@@ -56,7 +59,8 @@ My interests lie in **web development, frontend technologies, backend systems, a
 <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 </p>
 
-<br />
+<br/>
+<br/>
 
 ## Development Tools
 
