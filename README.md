@@ -28,63 +28,60 @@ My interests lie in **web development, frontend technologies, backend systems, a
 
 ## Programming Languages
 
-- JavaScript  
-- C++  
-- C  
-- HTML  
-- CSS  
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,cpp,c,html,css"/>
+<img src="https://skillicons.dev/icons?i=js,cpp,c,html,css" />
 </p>
 
----
+<br />
 
 ## Frontend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=react,html,css,js" />
 </p>
 
----
+<br />
 
 ## Backend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
----
+<br />
 
 ## Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,firebase"/>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 </p>
 
----
+<br />
 
 ## Development Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 📌 Pinned Projects
 
-## 🆘 CERS+ Emergency Response System
-🔗 https://cers-plus.web.app/
-
-## 🔐 Secure Communication Platform
-🔗 https://secure-comm-jade.vercel.app/
-
-## ✨ Aura – AI Productivity Platform
-🔗 https://aura-eight-phi.vercel.app/
-
-## 🛡 Cybersecurity Awareness Platform
-🔗 https://hackerspanel.netlify.app/
+<p align="center">
+<a href="https://cers-plus.web.app/">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vidhi2807&repo=cers-plus&theme=tokyonight" />
+</a>
+<a href="https://secure-comm-jade.vercel.app/">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vidhi2807&repo=secure-comm&theme=tokyonight" />
+</a>
+<a href="https://aura-eight-phi.vercel.app/">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vidhi2807&repo=aura&theme=tokyonight" />
+</a>
+<a href="https://hackerspanel.netlify.app/">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vidhi2807&repo=hackers-panel&theme=tokyonight" />
+</a>
+</p>
 
 ---
 
