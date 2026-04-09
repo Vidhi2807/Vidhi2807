@@ -4,6 +4,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Aspiring+Full+Stack+Developer;React+%7C+JavaScript+%7C+Web+Development;Problem+Solver;Continuous+Learner;Always+Learning+New+Technologies"/>
 </p>
 
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Vidhi2807&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+
 ---
 
 # 👋 Hello, I'm Vidhi Mandaliya
@@ -21,6 +27,25 @@ My interests lie in **web development, frontend technologies, backend systems, a
 - Exploring **backend development**
 - Strengthening **problem-solving and logical thinking**
 - Building **projects to enhance practical knowledge**
+
+---
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/vidhi-mandaliya-325240388/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://vidhimandaliya.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox">
+</a>
+
+<a href="mailto:vidhimandaliya81@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
 
 ---
 
@@ -76,24 +101,7 @@ My interests lie in **web development, frontend technologies, backend systems, a
 <img src="https://skillicons.dev/icons?i=postman" />
 </p>
 
----
 
-# 📌 Pinned Projects
-
-<p align="center">
-<a href="https://cers-plus.web.app/">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vidhi2807&repo=cers-plus&theme=tokyonight" />
-</a>
-<a href="https://secure-comm-jade.vercel.app/">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vidhi2807&repo=secure-comm&theme=tokyonight" />
-</a>
-<a href="https://aura-eight-phi.vercel.app/">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vidhi2807&repo=aura&theme=tokyonight" />
-</a>
-<a href="https://hackerspanel.netlify.app/">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vidhi2807&repo=hackers-panel&theme=tokyonight" />
-</a>
-</p>
 
 ---
 
@@ -114,31 +122,9 @@ My interests lie in **web development, frontend technologies, backend systems, a
 
 ---
 
-# 🌐 Connect With Me
 
-<p align="center">
 
-<a href="https://www.linkedin.com/in/vidhi-mandaliya-325240388/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
 
-<a href="https://vidhimandaliya.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox">
-</a>
-
-<a href="mailto:vidhimandaliya81@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
-</a>
-
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Vidhi2807&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
 
 # 🐍 Contribution Snake
 
