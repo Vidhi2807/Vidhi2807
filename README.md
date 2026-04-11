@@ -24,18 +24,18 @@ My interests lie in **web development, frontend technologies, backend systems, a
 
 <table>
 <tr>
-<td align="left">
+<td width="70%">
 
-- Learning **full-stack web development**
-- Improving **React and JavaScript skills**
-- Exploring **backend development**
-- Strengthening **problem-solving and logical thinking**
-- Building **projects to enhance practical knowledge**
+• Learning **full-stack web development**  
+• Improving **React and JavaScript skills**  
+• Exploring **backend development**  
+• Strengthening **problem-solving and logical thinking**  
+• Building **projects to enhance practical knowledge**
 
 </td>
-<td align="right">
+<td width="30%" align="right">
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250" height="180" alt="Coding gif"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="180" height="130" alt="Coding gif"/>
 
 </td>
 </tr>
@@ -59,7 +59,7 @@ My interests lie in **web development, frontend technologies, backend systems, a
 </a>
 
 <a href="Vidhi_Mandaliya_FlowCV_Resume_2026-04-10 (3).pdf">
-<img src="https://img.shields.io/badge/Resume-ff69b4?style=for-the-badge&logo=readdotcv&logoColor=white">
+<img src="https://img.shields.io/badge/Resume-2E8B57?style=for-the-badge&logo=readdotcv&logoColor=white">
 </a>
 
 </p>
@@ -68,9 +68,7 @@ My interests lie in **web development, frontend technologies, backend systems, a
 
 # 🛠️ Technical Skills
 
-<p align="center">
-  <strong>Programming Languages</strong>
-</p>
+## Programming Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -82,9 +80,7 @@ My interests lie in **web development, frontend technologies, backend systems, a
 
 <br/>
 
-<p align="center">
-  <strong>Frontend Development</strong>
-</p>
+## Frontend Development
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -95,9 +91,7 @@ My interests lie in **web development, frontend technologies, backend systems, a
 
 <br/>
 
-<p align="center">
-  <strong>Backend Development</strong>
-</p>
+## Backend Development
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -106,9 +100,7 @@ My interests lie in **web development, frontend technologies, backend systems, a
 
 <br/>
 
-<p align="center">
-  <strong>Databases</strong>
-</p>
+## Databases
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -117,9 +109,7 @@ My interests lie in **web development, frontend technologies, backend systems, a
 
 <br/>
 
-<p align="center">
-  <strong>Development Tools</strong>
-</p>
+## Development Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git" />&nbsp;&nbsp;&nbsp;&nbsp;
