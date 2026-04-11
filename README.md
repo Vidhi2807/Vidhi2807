@@ -35,7 +35,7 @@ My interests lie in **web development, frontend technologies, backend systems, a
 </td>
 <td width="30%" align="right">
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="180" height="130" alt="Coding gif"/>
+<img src="https://i.pinimg.com/originals/ef/c2/4b/efc24b8ff02b40ab7ceb6ff955e30d8b.gif" width="180" height="130" alt="Girl coding gif"/>
 
 </td>
 </tr>
