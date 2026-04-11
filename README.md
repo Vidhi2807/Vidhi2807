@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Vidhi%20Mandaliya&fontSize=50&fontAlignY=40&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20React%20%7C%20JavaScript%20%7C%20Problem%20Solver&descAlignY=60&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Vidhi%20Mandaliya&fontSize=50&fontAlignY=40&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20React%20%7C%20JavaScript%20%7C%20Problem%20Solver&descAlignY=60&animation=fadeIn&fontColor=FFB6C1"/>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Aspiring+Full+Stack+Developer;React+%7C+JavaScript+%7C+Web+Development;Problem+Solver;Continuous+Learner;Always+Learning+New+Technologies"/>
@@ -22,11 +22,17 @@ My interests lie in **web development, frontend technologies, backend systems, a
 
 # 🎯 Current Focus
 
-- Learning **full-stack web development**
-- Improving **React and JavaScript skills**
-- Exploring **backend development**
-- Strengthening **problem-solving and logical thinking**
-- Building **projects to enhance practical knowledge**
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" height="200" alt="Coding gif"/>
+</p>
+
+<p align="center">
+  ✔ Learning <strong>full-stack web development</strong><br/>
+  ✔ Improving <strong>React and JavaScript skills</strong><br/>
+  ✔ Exploring <strong>backend development</strong><br/>
+  ✔ Strengthening <strong>problem-solving and logical thinking</strong><br/>
+  ✔ Building <strong>projects to enhance practical knowledge</strong>
+</p>
 
 ---
 # 🌐 Connect With Me
@@ -51,7 +57,9 @@ My interests lie in **web development, frontend technologies, backend systems, a
 
 # 🛠️ Technical Skills
 
-## Programming Languages
+<p align="center">
+  <strong>Programming Languages</strong>
+</p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -63,7 +71,9 @@ My interests lie in **web development, frontend technologies, backend systems, a
 
 <br/>
 
-## Frontend Development
+<p align="center">
+  <strong>Frontend Development</strong>
+</p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -74,7 +84,9 @@ My interests lie in **web development, frontend technologies, backend systems, a
 
 <br/>
 
-## Backend Development
+<p align="center">
+  <strong>Backend Development</strong>
+</p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -83,7 +95,9 @@ My interests lie in **web development, frontend technologies, backend systems, a
 
 <br/>
 
-## Databases
+<p align="center">
+  <strong>Databases</strong>
+</p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -92,7 +106,9 @@ My interests lie in **web development, frontend technologies, backend systems, a
 
 <br/>
 
-## Development Tools
+<p align="center">
+  <strong>Development Tools</strong>
+</p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git" />&nbsp;&nbsp;&nbsp;&nbsp;
