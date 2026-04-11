@@ -24,7 +24,7 @@ My interests lie in **web development, frontend technologies, backend systems, a
 
 <table>
 <tr>
-<td>
+<td align="left">
 
 - Learning **full-stack web development**
 - Improving **React and JavaScript skills**
@@ -58,13 +58,19 @@ My interests lie in **web development, frontend technologies, backend systems, a
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
 
+<a href="Vidhi_Mandaliya_FlowCV_Resume_2026-04-10 (3).pdf">
+<img src="https://img.shields.io/badge/Resume-ff69b4?style=for-the-badge&logo=readdotcv&logoColor=white">
+</a>
+
 </p>
 
 ---
 
 # 🛠️ Technical Skills
 
-## Programming Languages
+<p align="center">
+  <strong>Programming Languages</strong>
+</p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -76,7 +82,9 @@ My interests lie in **web development, frontend technologies, backend systems, a
 
 <br/>
 
-## Frontend Development
+<p align="center">
+  <strong>Frontend Development</strong>
+</p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -87,7 +95,9 @@ My interests lie in **web development, frontend technologies, backend systems, a
 
 <br/>
 
-## Backend Development
+<p align="center">
+  <strong>Backend Development</strong>
+</p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -96,7 +106,9 @@ My interests lie in **web development, frontend technologies, backend systems, a
 
 <br/>
 
-## Databases
+<p align="center">
+  <strong>Databases</strong>
+</p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -105,7 +117,9 @@ My interests lie in **web development, frontend technologies, backend systems, a
 
 <br/>
 
-## Development Tools
+<p align="center">
+  <strong>Development Tools</strong>
+</p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git" />&nbsp;&nbsp;&nbsp;&nbsp;
