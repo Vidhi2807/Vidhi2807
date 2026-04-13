@@ -20,26 +20,28 @@ My interests lie in **web development, frontend technologies, backend systems, a
 
 ---
 
+
 # 🎯 Current Focus
 
 <table>
 <tr>
 <td width="70%">
 
-• Learning **full-stack web development**  
-• Improving **React and JavaScript skills**  
-• Exploring **backend development**  
-• Strengthening **problem-solving and logical thinking**  
-• Building **projects to enhance practical knowledge**
+• 🎓 **Learning** full-stack web development  
+• ⚛️ **Improving** React and JavaScript skills  
+• 🖥️ **Exploring** backend development  
+• 🧠 **Strengthening** problem-solving and logical thinking  
+• 🛠️ **Building** projects to enhance practical knowledge
 
 </td>
 <td width="30%" align="right">
 
-<img src="https://i.pinimg.com/originals/ef/c2/4b/efc24b8ff02b40ab7ceb6ff955e30d8b.gif" width="180" height="130" alt="Girl coding gif"/>
+<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/f5b7aacbd6f9e8f0e46c48c382d51e2c.gif" width="200" height="130" alt="Coding girl working on laptop"/>
 
 </td>
 </tr>
 </table>
+
 
 ---
 # 🌐 Connect With Me
